@@ -70,5 +70,5 @@ func main() {
 	// 	linecount++
 	// }
 
-	fmt.Println("Number of lines:", linecount)
+	fmt.Println("Number of lines Written:", linecount)
 }
